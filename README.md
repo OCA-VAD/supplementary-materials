@@ -12,4 +12,6 @@ https://... TBD after acceptation.
 *****
 The supplemtary material pdf is also available in this link.
 
-In this repositary you can find some videos showing the performance of the method visually on some clips. The Codes will also be available soon.
+In this repositary you can find some videos showing the performance of the method visually on some clips. 
+
+The Codes will be available soon.
