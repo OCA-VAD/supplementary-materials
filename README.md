@@ -5,7 +5,9 @@ This repositary contains some supplementary materials for the paper:
 OCA-VAD: Object Class Aware Video Anomaly Detection through Image Translation
 
 The paper can be accessible from the link below:
+
 https://... TBD after acceptation.
+
 *****
 The supplemtary material pdf is also available in this link.
 
